@@ -1,0 +1,6 @@
+{
+  "name": "YemenJusticeAGIX",
+  "description": "النظام القضائي الوطني الذكي الموحد لليمن للمكتبة الدستورية والرقابة السجنية والتنبؤ بالتجاوزات بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
